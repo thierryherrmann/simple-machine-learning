@@ -6,7 +6,7 @@ This is a study of this data set: https://archive.ics.uci.edu/ml/datasets/Adult
     
 This tries several methods to get the best F1 score. Focuses on various feature selection methods
 
-http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/adult-income/adult_income.ipynb
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/adult-income/adult-income.ipynb
 
 # Simple machine learning algorithms
 Manual implementations of simple ML algorithms (without sklearn) (just for fun)
