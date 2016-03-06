@@ -1,7 +1,13 @@
 simple-machine-learning
 =======================
 
-Simple machine learning algorithms
+# Study of Adult Income Data Set
+This is a study of this data set: https://archive.ics.uci.edu/ml/datasets/Adult
+    
+This tries several methods to get the best F1 score. Focuses on various feature selection methods
+
+# Simple machine learning algorithms
+Manual implementations of simple ML algorithms (without sklearn) (just for fun)
 
 1) K nearest neighbors with data set from Coursera ML course (week3)
 
