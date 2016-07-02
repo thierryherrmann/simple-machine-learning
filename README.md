@@ -8,6 +8,11 @@ This tries several methods to get the best F1 score. Focuses on various feature 
 
 http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/adult-income/adult-income.ipynb
 
+# Badges
+Find how the badges at a 1994 machine learning conference were labeled
+
+http://nbviewer.jupyter.org/github/thierryherrmann/simple-machine-learning/blob/master/badges/badges.ipynb
+
 # Simple machine learning algorithms
 Manual implementations of simple ML algorithms (without sklearn) (just for fun)
 
@@ -22,3 +27,7 @@ http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/
 3) Logistic regression (coursera ML week3)
 
 http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/coursera-ml/coursera-week3.ipynb
+
+=======================
+
+
