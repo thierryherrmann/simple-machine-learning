@@ -40,7 +40,7 @@ This tries several methods to get the best F1 score. Focuses on various feature 
 [SVM_RBF_Kernel.ipynb](2015-02-SVM-RBF-Kernel/SVM_RBF_Kernel.ipynb)
 
 ### 2014-09 Step by Step Gradient Descent
-- Manual by-the-book implementation of gradient descent
+- Manual by-the-book implementation of gradient descent  
 [gradient-descent.ipynb](2014-09-step-by-step-gradient-descent/gradient-descent.ipynb)  
 
 ### 2014-09 Naive Bayes
