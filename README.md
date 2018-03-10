@@ -7,10 +7,8 @@ Machine Learning and (some) Deep Learning
 [Genetic_Bayesian_Network.ipynb](2018-01-probabilistic-graphical-models/2017-05-genetic-diseases/Genetic_Bayesian_Network.ipynb)
 - Learning Structure and Parameters of the Flu dataset
 [PGMs_flu.ipynb](2018-01-probabilistic-graphical-models/2018-01-flu-learning-and-parameters/PGMs_flu.ipynb)
-http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2018-01-flu-learning-and-parameters/PGMs_flu.ipynb
 - A Tour of Bayesian Networks with pgmpy with a Restaurant CPD example
 [PGM_restaurant_tour.ipynb](2018-01-probabilistic-graphical-models/2018-02-PGMs-tour-with-restaurant/PGM_restaurant_tour.ipynb)
-http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2018-02-PGMs-tour-with-restaurant/PGM_restaurant_tour.ipynb
 
 
 # 2017-09 Predicting Customer Calls from Network Anomalies
@@ -51,6 +49,4 @@ This tries several methods to get the best F1 score. Focuses on various feature 
 # 2014-09 K Nearest Neighbors 
 - Using KNN algo to detect non linear boundaries
 [ch02-knn.ipynb](2014-09-knn/ch02-knn.ipynb)
-
-
 
