@@ -1,5 +1,17 @@
-simple-machine-learning
+Machine Learning and (some) Deep Learning 
 =======================
+#### (From most recent to older work)
+
+# 2018-02 Probabilistic Graphical Models
+- Manual fun implementation of factors for bayesian network. Application with generic disease (simplified Cystic Fibrosis)
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2017-05-genetic-diseases/Genetic_Bayesian_Network.ipynb
+- Learning Structure and Parameters of the Flu dataset
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2018-01-flu-learning-and-parameters/PGMs_flu.ipynb
+- A Tour of Bayesian Networks with pgmpy with a Restaurant CPD example
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2018-02-PGMs-tour-with-restaurant/PGM_restaurant_tour.ipynb
+
+
+(under construction)
 
 # Study of Adult Income Data Set
 This is a study of this data set: https://archive.ics.uci.edu/ml/datasets/Adult
