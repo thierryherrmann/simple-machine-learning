@@ -11,35 +11,44 @@ http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/
 http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/2018-01-probabilistic-graphical-models/2018-02-PGMs-tour-with-restaurant/PGM_restaurant_tour.ipynb
 
 
-(under construction)
+# 2017-09 Predicting Customer Calls from Network Anomalies
+- Network elements emit health measurements (CPU temperature, signal quality, number of connected devices...). When measurement's [Z-Score](https://en.wikipedia.org/wiki/Standard_score) is above some threshold compared to expected value ==> anomaly 
+- This notebook shows how a neural network can learn to predict from historical data increases of customer calls when network anomalies are detected
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
 
-# Study of Adult Income Data Set
-This is a study of this data set: https://archive.ics.uci.edu/ml/datasets/Adult
-    
+# 2017-03 Singular Value Decomposition
+- Example of Singular Value Decomposition applied to Image Compression
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
+
+# 2017-02 EKG Anomaly Detection with Clustering
+- Shows how **K-Means** clustering can be used to build an **expected signal**, can be used later to detect anomalies
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
+
+# 2016-07 Badges
+- Find how the badges at a 1994 machine learning conference were labeled
+http://nbviewer.jupyter.org/github/thierryherrmann/simple-machine-learning/blob/master/badges/badges.ipynb
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
+
+# 2016-07 Study of Adult Income Data Set
+- This is a study of this data set: https://archive.ics.uci.edu/ml/datasets/Adult
 This tries several methods to get the best F1 score. Focuses on various feature selection methods
-
 http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/adult-income/adult-income.ipynb
 
-# Badges
-Find how the badges at a 1994 machine learning conference were labeled
+# 2015-02 SVM with RBF Kernel
+- Shows how SVM with RBF kernel can better fit non linear data (toy example)
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
 
-http://nbviewer.jupyter.org/github/thierryherrmann/simple-machine-learning/blob/master/badges/badges.ipynb
+# 2014-09 Step by Step Gradient Descent
+- Manual by-the-book implementation of gradient descent
+http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master
 
-# Simple machine learning algorithms
-Manual implementations of simple ML algorithms (without sklearn) (just for fun)
-
-1) K nearest neighbors with data set from Coursera ML course (week3)
-
-http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/knn/ch02-knn.ipynb
-
-2) Naive Bayes
-
+# 2014-09 Naive Bayes
+- Manual implementation of Naive Bayes classification to understand what's under the hood!
+- Application to email spam classification with Naive Bayes  
 http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/naive-bayes/ch04-naive-bayes.ipynb
 
-3) Logistic regression (coursera ML week3)
-
-http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/master/coursera-ml/coursera-week3.ipynb
-
-=======================
+# 2014-09 K Nearest Neighbors 
+- Example of KNN algorithm
+[notebook](knn/ch02-knn.ipynb)
 
 
