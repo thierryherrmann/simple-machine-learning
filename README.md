@@ -49,6 +49,6 @@ http://nbviewer.ipython.org/github/thierryherrmann/simple-machine-learning/blob/
 
 # 2014-09 K Nearest Neighbors 
 - Example of KNN algorithm
-[notebook](knn/ch02-knn.ipynb)
+[notebook](2014-09-knn/ch02-knn.ipynb)
 
 
