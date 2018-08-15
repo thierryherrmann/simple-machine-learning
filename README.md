@@ -2,6 +2,10 @@ Machine Learning and (some) Deep Learning
 =======================
 #### (From most recent to older work)
 
+### 2018-08 Appliances Energy Prediction
+- Tries various models to predict the consumption of home appliances.  
+[201808_appliances_energy.ipynb](/2018-08-appliances-energy/201808_appliances_energy.ipynb)
+
 ### 2018-02 Probabilistic Graphical Models
 - Manual fun implementation of factors for bayesian network. Application with generic disease (simplified Cystic Fibrosis)  
 [Genetic_Bayesian_Network.ipynb](2018-01-probabilistic-graphical-models/2017-05-genetic-diseases/Genetic_Bayesian_Network.ipynb)
