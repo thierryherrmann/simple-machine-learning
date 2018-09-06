@@ -1,6 +1,8 @@
 Machine Learning and (some) Deep Learning 
 =======================
-#### (From most recent to older work)
+### 2018-09 Forward-Backward Algorithm for Hidden Markov Models
+- Implements the algorithm to compute the probabilities of hidden states given observations  
+[201809_forward-backward.ipynb](/2018-09-forward_backward-algo-hidden-markov-model/HMM.ipynb)
 
 ### 2018-08 Appliances Energy Prediction
 - Tries various models to predict the consumption of home appliances.  
