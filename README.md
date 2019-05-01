@@ -1,5 +1,9 @@
 Machine Learning and (some) Deep Learning 
 =======================
+### 2019-04 Gaussian Processes
+- Step by step explanation of getting the conditional distribution of unknown points given data using gaussian processes and an exponential quadratic kernel  
+[201904_gaussian-processes.ipynb](/2019-04-gaussian-processes/20190424_gaussian_processes.ipynb)
+
 ### 2018-09 Forward-Backward Algorithm for Hidden Markov Models
 - Implements the algorithm to compute the probabilities of hidden states given observations  
 [201809_forward-backward.ipynb](/2018-09-forward_backward-algo-hidden-markov-model/HMM.ipynb)
