@@ -1,5 +1,9 @@
 Machine Learning and (some) Deep Learning 
 =======================
+### 2019-05 Metropolis Hastings
+- Manual implementation of the Metropolis Hastings Random Walk algorithm
+[201905_metropolis-hastings.ipynb](/2019-05-metropolis-hastings/20190525-metropolis-hastings.ipynb)
+
 ### 2019-04 Gaussian Processes
 - Step by step explanation of getting the conditional distribution of unknown points given data using gaussian processes and an exponential quadratic kernel  
 [201904_gaussian-processes.ipynb](/2019-04-gaussian-processes/20190424_gaussian_processes.ipynb)
